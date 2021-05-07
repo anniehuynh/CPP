@@ -7,6 +7,8 @@ Amount in euros: 7.27802
 The output of the program must be exactly the same as the example output (the most strict comparison level)
 
 //solution
+#include <iostream>
+using namespace std;
 
 int main()
 {
