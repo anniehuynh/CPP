@@ -1,4 +1,4 @@
-Write a program that asks user for two integers, calculates their sum and prints it on screen. After printing the program shuts down.
+/*Write a program that asks user for two integers, calculates their sum and prints it on screen. After printing the program shuts down.
 
 Tip:
 
@@ -11,7 +11,7 @@ Type the first number: 3
 Type the second number: 18
 
 Sum of the numbers is: 21
-
+*/
 
 // solution
 #include <iostream>
