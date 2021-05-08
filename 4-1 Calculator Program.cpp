@@ -1,4 +1,4 @@
-Write a program that asks user for two integers and prints the sum, difference, product and remainder of the two numbers.
+/*Write a program that asks user for two integers and prints the sum, difference, product and remainder of the two numbers.
 
 Esibrand tulostus
 
@@ -22,7 +22,7 @@ Input second integer:9
 5-9 = -4
 5*9 = 45
 Remainder: 5
-The output of the program must be exactly the same as the example output (the most strict comparison level)
+The output of the program must be exactly the same as the example output (the most strict comparison level)*/
 
 //solution
 
