@@ -1,4 +1,4 @@
-Write a program that asks for the circle radius and calculates the area of the circle based on it. In the end the area is printed on screen. Use the approximate value of 3.142 for π. User is expected to input only integers.
+/*Write a program that asks for the circle radius and calculates the area of the circle based on it. In the end the area is printed on screen. Use the approximate value of 3.142 for π. User is expected to input only integers.
 
 Tip:
 
@@ -14,7 +14,7 @@ Circle area with the given radius: 113.112
 Example output:
 Input circle radius:9
 Circle area with the given radius: 254.502
-The output of the program must be exactly the same as the example output (the most strict comparison level)
+The output of the program must be exactly the same as the example output (the most strict comparison level)*/
 
 //solution
 
